@@ -1,0 +1,81 @@
+/* ******* GENERALES ********* */
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #16213eff;
+    color: #ddd; 
+}
+
+/* ******* BANNER ********* */
+.titulo{
+    background-color: #e94560ff;
+    color: #ddd;
+    font-size: 2.5rem;
+    padding: .5rem;
+    margin-top: 1rem;
+    font-weight: bold;
+}
+
+.user{
+    color: rgb(58, 86, 164);
+}
+
+/* ******* LOGIN ********* */
+.btnLogin{
+    background-color: #533483ff;
+    color: #ddd;
+}
+
+.textLogin{
+    color: rgb(58, 86, 164);
+}
+
+/* ******* DASHBOARD ********* */
+.opacity{
+    filter: opacity(50%);
+}
+
+.mes{
+    color: #e94560ff;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.pagoCard{
+    background-color: #0f3460ff;
+    border: 1px solid rgb(16, 99, 200);
+    border-radius: 8px;
+}
+
+.btnAdd, .btnMoney, .btnLogout{
+    background-color: #533483ff;
+    color: #ddd;
+}
+
+.btnEdit, .btnCancel{
+    background-color: #ff7f2aff;
+}
+
+.btnDelete{
+    background-color: #ff5555ff;
+}
+
+/* ******* DASHBOARD ********* */
+.spinner{
+    color: green;
+    animation: rotacion 2s infinite linear;
+}
+
+@keyframes rotacion {
+    from{
+        transform: rotate(0deg);
+        color: green;
+    }
+    to{
+        transform: rotate(360deg);
+        color: greenyellow;
+    }
+}
