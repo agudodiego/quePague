@@ -1,5 +1,5 @@
 # QUEPAGUE APP
-👉 [quePagueApp]()
+![quePague1](./src/img/quePague.jpg)  
 
 **quePague** es una SPA para gestionar gastos fijos mensuales.  
 **quePague** consta de dos pantallas, una para loguearse y un dashboard para realizar toda la gestión de los pagos.  
@@ -13,7 +13,7 @@ La idea de la app es que los gastos permanezcan cada mes para realizar un seguim
 
 La aplicación la realicé para uso personal al mismo tiempo que aprendí sobre algunos servicios de Firebase y para seguir practicando React JS.
 
- 🧰 🛠️ Teams fue desarrollado con:
+ 🧰 🛠️ quePagué fue desarrollado con:
 - Visual studio code
 - React 18.2.0
 - Bootstrap 5
